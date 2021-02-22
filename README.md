@@ -1,6 +1,6 @@
 # Customer_value_challenge
 
-[![View Submission](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/Yahyaoui-Ilyes/Customer_value_challenge/blob/master/Customer_value.ipynb), [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/Yahyaoui-Ilyes/Customer_value_challenge/master?filepath=Customer_value.ipynb)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/), [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/Yahyaoui-Ilyes/Customer_value_challenge/master?filepath=Customer_value.ipynb)
 
 
 In this is data challenge, we are asked to to predict the customer lifetime value for each customer. The goal of this task isn’t necessarily to obtain best predictions results,
