@@ -55,5 +55,6 @@ parameters, and evaluation criteria.
 #### Question 4 - Comparing Models
 **Question 4a**  <br>
 Compare and contrast your model with the provided one. <br>
+
 **Question 4b**  <br>
 Describe possible future improvements for your model.
