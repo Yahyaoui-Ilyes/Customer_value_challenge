@@ -1,5 +1,5 @@
 # Customer_value_challenge
-## Jupyter Notebook Viewer
+
 [![View Submission](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/Yahyaoui-Ilyes/Customer_value_challenge/blob/master/Customer_value.ipynb)
 
 In this is data challenge, we are asked to to predict the customer lifetime value for each customer. The goal of this task isn’t necessarily to obtain best predictions results,
