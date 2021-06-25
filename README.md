@@ -1,6 +1,6 @@
 # Customer_value_challenge
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yahyaoui-elyes/Customer_value_challenge/HEAD)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yahyaoui-elyes/Customer_value/HEAD)
 
 
 In this is data challenge, we are asked to to predict the customer lifetime value for each customer. The goal of this isn’t necessarily to obtain best predictions,
